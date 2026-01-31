@@ -14,7 +14,9 @@ I find this article interesting because I too held the common assumption that AI
 
 Article checked for typos.
 
+Comments by Michael (I am doing this myself from another Github account since I couldn't find another student to do it for me)
 
+This is a very intersting topic and shows one of the many vulnerabilities of LLMs outside of the common ones like prompt injection.
 
 
 
