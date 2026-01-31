@@ -10,6 +10,10 @@ The attack they studied starts by poisoning a small part of the training dataset
 
 I find this article interesting because I too held the common assumption that AI models are safe as long as attackers control only a tiny fraction of the training data. AI models are trained on massive datasets collected from the public internet, which makes them vulnerable to this kind of attack.
 
+## Proof Reading
+
+Article checked for typos.
+
 
 
 
